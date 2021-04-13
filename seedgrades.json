@@ -1,0 +1,38 @@
+[
+  {
+    "unitId": "A1",
+    "unitName": "A1 Skills Development",
+    "ac1grade": "PD Default at Pass",
+    "ac2grade": "PD Default at Pass",
+    "ac3grade": "PD Default at Pass",
+    "ac4grade": "PD Default at Pass",
+    "ac5grade": "PD Default at Pass"
+  },
+  {
+    "unitId": "A2",
+    "unitName": "A2 Creative Project",
+    "ac1grade": "PD Default at Pass",
+    "ac2grade": "PD Default at Pass",
+    "ac3grade": "PD Default at Pass",
+    "ac4grade": "PD Default at Pass",
+    "ac5grade": "PD Default at Pass"
+  },
+  {
+    "unitId": "B1",
+    "unitName": "B1 Personal Progression",
+    "ac1grade": "PD Default at Pass",
+    "ac2grade": "PD Default at Pass",
+    "ac3grade": "PD Default at Pass",
+    "ac4grade": "PD Default at Pass",
+    "ac5grade": "PD Default at Pass"
+  },
+  {
+    "unitId": "B2",
+    "unitName": "B2 Industry Response",
+    "ac1grade": "PD Default at Pass",
+    "ac2grade": "PD Default at Pass",
+    "ac3grade": "PD Default at Pass",
+    "ac4grade": "PD Default at Pass",
+    "ac5grade": "PD Default at Pass"
+  }
+]
